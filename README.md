@@ -19,5 +19,13 @@ Run demo_Projectbinary.m
 ## Ciation
 If you find our work useful in your research, please consider citing:
 ```
-@inproceedings{wang2025tpch, title={TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering}, author={Wang, Zhongwen and Li, Xingfeng and Sun, Yinghui and Sun, Quansen and Sun, Yuan and Ling, Han and Dai, Jian and Ren, Zhenwen}, booktitle={Proceedings of the AAAI Conference on Artificial Intelligence} }
+@inproceedings{wang2025tpch,
+  title={TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering},
+  author={Wang, Zhongwen and Li, Xingfeng and Sun, Yinghui and Sun, Quansen and Sun, Yuan and Ling, Han and Dai, Jian and Ren, Zhenwen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={20},
+  pages={21420--21428},
+  year={2025}
+}
 ```
